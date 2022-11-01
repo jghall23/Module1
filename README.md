@@ -1,1 +1,1 @@
-# Module1 The first Module challenge
+In this Module I created a simple passoword generator using Javascript
